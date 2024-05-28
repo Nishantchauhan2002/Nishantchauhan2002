@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantchauhan2002" alt="nishantchauhan2002" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management Project**
+- 🔭 I’m currently working on **Authenication Microservice in Node**
 
-- 🌱 I’m currently learning **Swing , Awt , Spring ,React ,Express Js**
+- 🌱 I’m currently learning **Swing , Awt , Spring ,React ,Express Js,Node**
 
-- 👯 I’m looking to collaborate on **Hotel Management Project**
+- 👯 I’m looking to collaborate on **Authentication Service**
 
 - 👨‍💻 All of my projects are available at [https://nishantchauhan.netlify.app/](https://nishantchauhan.netlify.app/)
 
