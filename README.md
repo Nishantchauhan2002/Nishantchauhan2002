@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nishantchauhan.netlify.app/](https://nishantchauhan.netlify.app/)
 
-- 💬 Ask me about **Java ,Data Structure, React**
+- 💬 Ask me about **Java ,Data Structure, React NodeJS**
 
 - 📫 How to reach me **nishant031102@gmail.com**
 
