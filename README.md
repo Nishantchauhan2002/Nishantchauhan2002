@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Authentication Service**
 
-- 👨‍💻 All of my projects are available at [https://nishantchauhan.netlify.app/](https://nishantchauhan.netlify.app/)
-
 - 💬 Ask me about **Java ,Data Structure, React ,NodeJS, Swift,UIKIT,SwiftUI,Objective C,IOS Development**
 
 - 📫 How to reach me **nishant031102@gmail.com**
