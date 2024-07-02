@@ -6,8 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://www.classicinformatics.com/hubfs/full-stack%20developer.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantchauhan2002&label=Profile%20views&color=0e75b6&style=flat" alt="nishantchauhan2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantchauhan2002" alt="nishantchauhan2002" /></a> </p>
-
 - 🔭 I’m currently working on **Authenication Microservice in Node**
 
 - 🌱 I’m currently learning **Swing , Awt , Spring ,React ,Express Js,Node**
