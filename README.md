@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.classicinformatics.com/hubfs/full-stack%20developer.png">
+<img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-man-in-headphones-using-computer-to-play-music-cartoon-png-image_11072375.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantchauhan2002&label=Profile%20views&color=0e75b6&style=flat" alt="nishantchauhan2002" /> </p>
 
 - 🔭 I’m currently working on **Authenication Microservice in Node**
