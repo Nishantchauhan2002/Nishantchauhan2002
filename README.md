@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Authentication Service**
 
-- 💬 Ask me about **Java ,Data Structure, React ,NodeJS, Swift,UIKIT,SwiftUI,Objective C,IOS Development**
+- 💬 Ask me about **Java,Javascript ,Data Structure, React ,NodeJS, Swift,UIKIT,SwiftUI,Objective C,iOS Development**
 
 - 📫 How to reach me **nishant031102@gmail.com**
 
